@@ -1,1 +1,1 @@
-# laravelBlog
+## Simple blog with Laravel
